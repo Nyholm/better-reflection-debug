@@ -16,5 +16,8 @@
             "Debug\\": ""
         },
         "exclude-from-classmap": ["/vendor/"]
+    },
+    "require-dev": {
+        "roave/backward-compatibility-check": "^4.4"
     }
 }
